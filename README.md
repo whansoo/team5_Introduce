@@ -1,2 +1,13 @@
-# team5_Introduce
-First  Team Project
+# TEAM5_ 자기소개
+
+## First  Team Project
+
+### 팀원명
+1. 조승헤
+2. 김소희
+3. 이혜영
+4. 신환수
+
+``
+개발자를 (진)개발자를 꿈꿉니다
+``
